@@ -76,6 +76,7 @@
 
 <!-- https://github.com/inttter/md-badges?tab=readme-ov-file#%EF%B8%8F-frameworks -->
 
+<!--
 ### GPG PUBLIC KEY
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -129,4 +130,4 @@ ksAv3mM69h/ZXwXIqNr2IhsXjMeGPdzGlamy9SZgUFMNt1BTjMPnFTMfgReoDY1G
 GIsmuz9y4mxRMjtHNclZMKy6VDwlFFWl+sXS/m1tazPJIRtkojEWxZ2IHK1PM4vP
 McBphrqqn0pwob+Qc5GFJT1R+kIeFBgJ6noVrw==
 =L0sU
------END PGP PUBLIC KEY BLOCK-----
+-----END PGP PUBLIC KEY BLOCK----- -->
