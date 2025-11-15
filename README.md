@@ -1,6 +1,6 @@
 # Renato Araujo da Sivla
 
-### Developer Web | TypeScript | React | JavaScript | Git | GitHub | C/C++ | Java SpringBoot | LINUX/DEBIAN/APINE | DOCKER |
+### Developer Web | TypeScript | React | JavaScript | Git | GitHub  | Java SpringBoot | LINUX/DEBIAN/APINE | DOCKER |
 
 ###### Sistemas de Informação - UNEMAT (UNIVERSIDADE DO ESTADO DO MATO GROSSO) | MT - Brasil
 
