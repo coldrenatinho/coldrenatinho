@@ -1,76 +1,88 @@
-<div align="center">
-  
-  # Renato Araujo da Silva
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Java+%7C+Spring+%7C+React;PHP+%7C+Laravel+%7C+Python" alt="Typing SVG" />
-  </a>
+# Renato Araujo da Silva
 
-  <p>
-    Sistemas de Informação - <b>UNEMAT</b> (Universidade do Estado do Mato Grosso)
-  </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-renatoaraujo045-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/renatoaraujo045)
+[![Email](https://img.shields.io/badge/Email-araujorenato045%40gmail.com-red?style=flat-square&logo=gmail)](mailto:araujorenato045@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-66992345854-green?style=flat-square&logo=whatsapp)](https://wa.me/5566992345854)
 
-  <p>
-    <a href="https://github.com/coldrenatinho">
-      <img src="https://komarev.com/ghpvc/?username=coldrenatinho&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    </a>
-  </p>
+## 👨‍💻 Sobre Mim
 
-  ---
+Analista de Infraestrutura Linux & Python com foco em DevOps, Docker e Redes. Atualmente trabalhando como **Assistente de TI N-II** no **Tribunal de Justiça de Mato Grosso**.
 
-  ### ⚡ Sobre Mim
+Apaixonado por automação, infraestrutura como código e soluções escaláveis. Experiência sólida em administração de sistemas Linux, containerização e arquitetura de redes.
 
-  Sou um desenvolvedor focado em **soluções escaláveis** e **infraestrutura robusta**. Minha expertise combina a arquitetura sólida do **Java e Spring** com a agilidade do **PHP/Laravel** e **Python**, entregando interfaces modernas com **React**. No universo DevOps, sou especialista em containerização e orquestração.
+## 🛠️ Stack Tecnológico
 
-  ---
+### Infraestrutura & Sistemas Operacionais
+- **Linux**: Debian, RHEL, SUSE (Administração Avançada)
+- **Windows Server**: Configuração e gestão
+- **Virtualização**: Ambientes virtualizados complexos
+- **Cloud**: Microsoft Azure (AI-900 Certified)
 
-</div>
+### DevOps & Automação
+- **Containerização**: Docker (criação e gestão de containers), Docker Swarm, Kubernetes
+- **Linguagens**: Python, Bash, PowerShell
+- **Versionamento**: Git
+- **Automação de Processos**: N8N, Scripts personalizados
 
-### 🛠️ Arsenal Tecnológico
+### Redes & Infraestrutura Web
+- **Protocolos**: BGP, OSPF, MPLS, TCP/IP
+- **Servidores Web**: Nginx (Reverse Proxy), Apache, Tomcat, IIS
+- **Balanceamento**: Load Balancers
+- **Segurança**: Firewalls, configuração de segurança de rede
+- **Certificações**: MTCNA (MikroTik Certified Network Associate)
 
-<div align="center">
+## 📚 Certificações
 
-| **Backend & Core** | **Frontend & Web** | **DevOps & Infra** |
-| :---: | :---: | :---: |
-| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) <br> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) <br> ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br> ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br> ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff) <br> ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+- ✅ Microsoft Azure AI-900
+- ✅ MTCNA: MikroTik Certified Network Associate
+- ✅ Docker para Desenvolvedores (com Docker Swarm e Kubernetes)
+- ✅ Notion do Básico ao Avançado
+- ✅ Microsoft Excel - Básico
 
-</div>
+## 💼 Experiência Profissional
 
-<br>
+### Tribunal de Justiça de Mato Grosso
+**Assistente de TI N-II** | Abril 2026 - Presente
+- Suporte e manutenção de infraestrutura de TI
+- Administração de sistemas Linux e Windows
+- Gestão de servidores e serviços críticos
 
-### 💻 Ambiente & Ferramentas
+### TopSapp - Gestão de Provedores
+**Analista de Suporte Técnico em Servidores Linux** | Agosto 2025 - Março 2026
+- Administração e troubleshooting de servidores Linux
+- Automação de tarefas operacionais
+- Suporte a infraestrutura de provedores de internet
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+### GB Online
+**Suporte N-II** | Janeiro 2025 - Junho 2025
+- Atendimento técnico especializado
+- Resolução de problemas complexos de infraestrutura
+- Análise de necessidades e implementação de soluções
 
-**Distros Preferidas:**
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?logo=alpine-linux&logoColor=white)
+**Suporte N-I** | Agosto 2024 - Maio 2025
+- Suporte técnico aos clientes
+- Diagnóstico e resolução de incidentes
+- Documentação de processos
+
+### Se7e Sistemas
+**Analista de Suporte** | Fevereiro 2023 - Março 2024
+- Suporte técnico em sistemas e equipamentos
+- Diagnóstico de problemas de infraestrutura
+- Manutenção preventiva e corretiva
+
+## 🎓 Formação Acadêmica
+
+**Bacharelado em Sistemas de Informação**  
+Universidade do Estado de Mato Grosso (UNEMAT)  
+Março 2022 - Março 2026
+
+## 📫 Contato
+
+- 📧 Email: [araujorenato045@gmail.com](mailto:araujorenato045@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/renatoaraujo045](https://www.linkedin.com/in/renatoaraujo045)
+- 📱 WhatsApp: [(66) 99234-5854](https://wa.me/5566992345854)
+- 📍 Localização: Sinop, Mato Grosso, Brasil
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/coldrenatinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coldrenatinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldrenatinho&layout=compact&theme=radical"/>
-  </a>
-</div>
-
----
-
-### 📬 Contato & Segurança
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:araujorenato045@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@coldrenatinho)
-
-</div>
+💡 *"Transformando infraestrutura em código, um container por vez."*
