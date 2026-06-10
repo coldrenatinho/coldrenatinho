@@ -22,6 +22,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/coldrenatinho/coldrenatinho/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D de contribuições" />
+</div>
+
+---
+
 ## 🚀 Sobre mim
 
 Sou profissional de Tecnologia da Informação com foco em **infraestrutura Linux, redes, automação, DevOps e administração de servidores**.
@@ -194,16 +200,25 @@ Documentação → clareza, padronização e transferência de conhecimento
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=coldrenatinho&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldrenatinho&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=coldrenatinho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=coldrenatinho&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldrenatinho&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coldrenatinho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <a href="https://github.com/coldrenatinho">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=coldrenatinho&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  </a>
 </div>
 
 ---
