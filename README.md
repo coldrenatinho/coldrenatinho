@@ -76,6 +76,8 @@ Gosto de unir **infraestrutura + desenvolvimento + automação** para criar solu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
@@ -90,6 +92,7 @@ Gosto de unir **infraestrutura + desenvolvimento + automação** para criar solu
 ### 🌐 Redes, serviços e cloud
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik%20Proxy-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logoColor=white)
@@ -108,6 +111,8 @@ Gosto de unir **infraestrutura + desenvolvimento + automação** para criar solu
 - Amazon Bedrock para experimentos com IA generativa e modelos fundacionais
 - Integração entre APIs, automações, dados e serviços gerenciados
 - Interesse em infraestrutura como código, segurança, observabilidade e escalabilidade
+- Portainer para administração visual de ambientes Docker e containers
+- Traefik para reverse proxy, roteamento, TLS e publicação de serviços
 
 ---
 
@@ -138,6 +143,7 @@ Funcionalidades planejadas:
 Linux        → servidores, permissões, serviços e troubleshooting
 Redes        → TCP/IP, OSPF, BGP, MPLS e MikroTik
 DevOps       → Docker, CI/CD, automação e observabilidade
+Containers   → Portainer, Docker Swarm, Traefik e publicação de serviços
 AWS/Bedrock  → infraestrutura cloud, IA generativa e integrações com modelos fundacionais
 Python       → scripts, automação, ETL e integração com APIs
 Fullstack    → Vue.js, APIs, bancos de dados e deploy
