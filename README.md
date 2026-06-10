@@ -2,9 +2,9 @@
 
 # 👋 Olá, eu sou Renato Araújo
 
-### Linux • DevOps • Automação • Redes • Python • AWS • Amazon Bedrock • Fullstack em formação
+### Linux • DevOps • Automação • Redes • Python • AWS • Amazon Bedrock • Agentes de IA • Fullstack em formação
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Analista+de+Infraestrutura+Linux;DevOps%2C+Automa%C3%A7%C3%A3o+e+Redes;AWS+e+Amazon+Bedrock+para+IA+Generativa;Python+para+resolver+problemas+reais;Estudando+Vue.js%2C+Vuetify+e+Fullstack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=950&lines=Analista+de+Infraestrutura+Linux;DevOps%2C+Automa%C3%A7%C3%A3o+e+Redes;AWS+e+Amazon+Bedrock+para+IA+Generativa;Agentes+de+IA+e+automa%C3%A7%C3%B5es+inteligentes;Python+para+resolver+problemas+reais;Estudando+Vue.js%2C+Vuetify+e+Fullstack" alt="Typing SVG" />
 
 <br />
 
@@ -46,6 +46,8 @@ Gosto de unir **infraestrutura + desenvolvimento + automação** para criar solu
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AI Agents](https://img.shields.io/badge/Agentes%20de%20IA-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=protocols.io&logoColor=white)
 
 </div>
 
@@ -58,6 +60,8 @@ Gosto de unir **infraestrutura + desenvolvimento + automação** para criar solu
 - DevOps aplicado a ambientes reais
 - AWS, Amazon Bedrock e infraestrutura para IA generativa
 - Integração de aplicações com serviços cloud e APIs de IA
+- Agentes de IA para automação, atendimento, análise de dados e integração com sistemas
+- Orquestração de ferramentas, APIs e fluxos inteligentes com foco em produtividade
 
 ---
 
@@ -114,6 +118,19 @@ Gosto de unir **infraestrutura + desenvolvimento + automação** para criar solu
 - Portainer para administração visual de ambientes Docker e containers
 - Traefik para reverse proxy, roteamento, TLS e publicação de serviços
 
+### 🤖 Agentes de IA e automações inteligentes
+
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=for-the-badge&logo=protocols.io&logoColor=white)
+
+- Interesse em agentes de IA conectados a ferramentas, APIs, bancos de dados e automações
+- Estudos com Amazon Bedrock para uso de modelos fundacionais em aplicações reais
+- Criação de fluxos inteligentes para suporte, documentação, DevOps e análise operacional
+- Integração de IA com n8n, Python, serviços cloud e sistemas corporativos
+
 ---
 
 ## 📌 Projeto em destaque
@@ -145,6 +162,7 @@ Redes        → TCP/IP, OSPF, BGP, MPLS e MikroTik
 DevOps       → Docker, CI/CD, automação e observabilidade
 Containers   → Portainer, Docker Swarm, Traefik e publicação de serviços
 AWS/Bedrock  → infraestrutura cloud, IA generativa e integrações com modelos fundacionais
+Agentes IA   → automações inteligentes, ferramentas, APIs e fluxos orientados por contexto
 Python       → scripts, automação, ETL e integração com APIs
 Fullstack    → Vue.js, APIs, bancos de dados e deploy
 Documentação → clareza, padronização e transferência de conhecimento
