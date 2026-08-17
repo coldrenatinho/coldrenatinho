@@ -2,9 +2,9 @@
 
 # 👋 Olá, eu sou Renato Araújo
 
-### Linux • DevOps • Automação • Redes • Python • AWS • Amazon Bedrock • Agentes de IA • Fullstack em formação
+### ☁️ Cloud • ⚙️ DevOps • 🐧 Linux • 🌐 Infraestrutura & Redes • 🤖 Automação
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=950&lines=Analista+de+Infraestrutura+Linux;DevOps%2C+Automa%C3%A7%C3%A3o+e+Redes;AWS+e+Amazon+Bedrock+para+IA+Generativa;Agentes+de+IA+e+automa%C3%A7%C3%B5es+inteligentes;Python+para+resolver+problemas+reais;Estudando+Vue.js%2C+Vuetify+e+Fullstack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=950&lines=Analista+de+Infraestrutura+%26+Cloud;Linux%2C+Redes+e+Administra%C3%A7%C3%A3o+de+Servidores;Docker%2C+CI%2FCD+e+Automa%C3%A7%C3%A3o;AWS+%7C+Cloud+Networking+%7C+DevOps;Infrastructure+as+Code+%26+Observabilidade;Transformando+opera%C3%A7%C3%B5es+manuais+em+automa%C3%A7%C3%B5es" alt="Typing SVG" />
 
 <br />
 
@@ -12,10 +12,10 @@
   <img src="https://img.shields.io/badge/E--mail-araujorenato045%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 <a href="https://www.linkedin.com/in/renatoaraujo045">
-  <img src="https://img.shields.io/badge/LinkedIn-Renato%20Araujo-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Renato%20Araujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/coldrenatinho">
-  <img src="https://img.shields.io/badge/GitHub-coldrenatinho-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-coldrenatinho-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -23,75 +23,285 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/coldrenatinho/coldrenatinho/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D de contribuições" />
+
+<img src="https://raw.githubusercontent.com/coldrenatinho/coldrenatinho/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D de contribuições" />
+
 </div>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou profissional de Tecnologia da Informação com foco em **infraestrutura Linux, redes, automação, DevOps e administração de servidores**.
+Sou profissional de Tecnologia da Informação com foco em **Infraestrutura, Linux, Redes, Cloud Computing, DevOps e Automação**.
 
-Atualmente atuo como **Assistente de TI N-II no Tribunal de Justiça de Mato Grosso** e curso **Sistemas de Informação na Universidade do Estado de Mato Grosso — UNEMAT**.
+Atuo com suporte e infraestrutura em ambiente corporativo, trabalhando com **administração de estações e servidores, redes, Active Directory, troubleshooting, VPNs, sistemas corporativos e resolução de incidentes**.
 
-Gosto de unir **infraestrutura + desenvolvimento + automação** para criar soluções práticas, reduzir trabalho manual e melhorar ambientes de TI.
+Paralelamente, venho aprofundando minha atuação em **AWS, Docker, CI/CD, Infrastructure as Code, observabilidade e automação de infraestrutura**.
 
-> Meu objetivo é transformar problemas técnicos em soluções simples, documentadas e reutilizáveis.
+Atualmente curso **Sistemas de Informação na Universidade do Estado de Mato Grosso — UNEMAT**.
+
+Meu interesse principal está na interseção entre:
+
+```text
+Infraestrutura
+      ↓
+Linux & Redes
+      ↓
+Cloud Computing
+      ↓
+Containers
+      ↓
+CI/CD
+      ↓
+Infrastructure as Code
+      ↓
+Observabilidade
+      ↓
+Automação
+```
+
+> **Construir infraestrutura confiável, reproduzível, automatizada e fácil de operar.**
 
 ---
 
-## 🧠 Atualmente estudando
+## 🎯 Foco profissional
+
+```yaml
+areas:
+  - Cloud Infrastructure
+  - DevOps
+  - Linux Administration
+  - Network Infrastructure
+  - Infrastructure Automation
+  - CI/CD
+  - Containers
+  - Infrastructure as Code
+  - Observability
+
+cloud:
+  primary: AWS
+  interests:
+    - VPC
+    - EC2
+    - IAM
+    - Route 53
+    - CloudWatch
+    - Security Groups
+    - Cloud Networking
+
+career:
+  - Analista de Infraestrutura
+  - Analista Cloud
+  - Analista DevOps
+  - Cloud Engineer
+  - Infrastructure Engineer
+```
+
+---
+
+# ☁️ Cloud & AWS
 
 <div align="center">
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AI Agents](https://img.shields.io/badge/Agentes%20de%20IA-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=protocols.io&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-759C3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
-- Vue.js 3 com Composition API
-- Vuetify e Vue Router
-- JavaScript moderno
-- Bun e ecossistema frontend
-- APIs com Fastify
-- PostgreSQL, MySQL, Supabase e Firebase
-- DevOps aplicado a ambientes reais
-- AWS, Amazon Bedrock e infraestrutura para IA generativa
-- Integração de aplicações com serviços cloud e APIs de IA
-- Agentes de IA para automação, atendimento, análise de dados e integração com sistemas
-- Orquestração de ferramentas, APIs e fluxos inteligentes com foco em produtividade
+Experiência prática e estudos envolvendo:
+
+- Amazon EC2
+- Amazon VPC
+- Subnets públicas e privadas
+- Route Tables
+- Internet Gateway
+- NAT
+- Security Groups
+- VPC Peering
+- IAM
+- Amazon S3
+- Route 53
+- CloudWatch
+- AWS networking
+- Arquiteturas Multi-AZ
+- Balanceamento de carga
+- Infraestrutura para aplicações containerizadas
+- Troubleshooting de conectividade em ambientes cloud
 
 ---
 
-## 🛠️ Stack técnica
+# ⚙️ DevOps, Containers & Automação
 
-### 🐧 Sistemas, infraestrutura e servidores
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![SUSE](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=suse&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-### ⚙️ DevOps, automação e containers
+<div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 💻 Linguagens e desenvolvimento
+</div>
+
+### Tecnologias e práticas
+
+- Docker
+- Docker Compose
+- Docker Swarm
+- Portainer
+- Traefik
+- GitHub Actions
+- CI/CD
+- Git
+- GitHub
+- Automação com Bash
+- Automação com Python
+- Infrastructure as Code
+- Terraform
+- Kubernetes
+- Reverse Proxy
+- TLS / HTTPS
+- Deploy automatizado
+- Containers e redes Docker
+- DNS interno entre serviços
+
+---
+
+## 🚀 Arquitetura DevOps em laboratório
+
+Um dos ambientes que utilizo para estudos e experimentação segue uma arquitetura semelhante a:
+
+```text
+              GitHub
+                 │
+                 ▼
+          GitHub Actions
+                 │
+                 ▼
+           Docker Compose
+                 │
+                 ▼
+              Traefik
+          Reverse Proxy
+          HTTPS / Routing
+            ┌────┴────┐
+            ▼         ▼
+        Frontend     API
+         Vue.js    Fastify
+            │         │
+            └────┬────┘
+                 ▼
+            PostgreSQL
+                 │
+                 ▼
+             AWS EC2
+                 │
+                 ▼
+             Amazon VPC
+```
+
+Nesse ambiente exploro conceitos como:
+
+- Deploy automatizado
+- CI/CD
+- Containers
+- Reverse proxy
+- TLS automático
+- DNS
+- Networking entre containers
+- Persistência de dados
+- Cloud networking
+- Segurança
+- Troubleshooting
+- Observabilidade
+
+---
+
+# 🐧 Linux & Infraestrutura
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![SUSE](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=suse&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+### Administração e troubleshooting
+
+- Linux
+- Windows
+- Windows Server
+- Active Directory
+- Group Policy — GPO
+- SCCM
+- WSUS
+- Administração de usuários e grupos
+- Permissões
+- Gerenciamento de processos
+- Serviços
+- Logs
+- Filesystems
+- Shell
+- SSH
+- Troubleshooting
+- Monitoramento
+- Documentação técnica
+
+---
+
+# 🌐 Redes & Segurança
+
+<div align="center">
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</div>
+
+### Conhecimentos
+
+- TCP/IP
+- IPv4 / IPv6
+- Subnetting
+- VLAN
+- DNS
+- DHCP
+- NAT
+- ACL
+- VPN
+- Routing
+- OSPF
+- BGP
+- MPLS
+- VPC networking
+- Security Groups
+- Firewalls
+- Packet analysis
+- Wireshark
+- tcpdump
+- Nmap
+- MikroTik RouterOS
+
+---
+
+# 💻 Automação & Desenvolvimento
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -99,94 +309,282 @@ Gosto de unir **infraestrutura + desenvolvimento + automação** para criar solu
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🌐 Redes, serviços e cloud
+</div>
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik%20Proxy-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+Utilizo desenvolvimento principalmente como ferramenta para **automação de infraestrutura, integração e resolução de problemas**.
 
-### ☁️ Cloud, IA e infraestrutura moderna
+Principais tecnologias:
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+- Python
+- Bash
+- PowerShell
+- SQL
+- Git
+- APIs REST
+- PostgreSQL
+- MySQL
+- Fastify
+- JavaScript
+- Vue.js
 
-- Infraestrutura cloud para aplicações, automações e integrações
-- Amazon Bedrock para experimentos com IA generativa e modelos fundacionais
-- Integração entre APIs, automações, dados e serviços gerenciados
-- Interesse em infraestrutura como código, segurança, observabilidade e escalabilidade
-- Portainer para administração visual de ambientes Docker e containers
-- Traefik para reverse proxy, roteamento, TLS e publicação de serviços
+---
 
-### 🤖 Agentes de IA e automações inteligentes
+# 🤖 IA aplicada à Infraestrutura
 
-![AI Agents](https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+Também estudo maneiras de aplicar IA em atividades operacionais e de infraestrutura.
+
+<div align="center">
+
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=for-the-badge&logo=protocols.io&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-- Interesse em agentes de IA conectados a ferramentas, APIs, bancos de dados e automações
-- Estudos com Amazon Bedrock para uso de modelos fundacionais em aplicações reais
-- Criação de fluxos inteligentes para suporte, documentação, DevOps e análise operacional
-- Integração de IA com n8n, Python, serviços cloud e sistemas corporativos
+</div>
 
----
+Áreas de interesse:
 
-## 📌 Projeto em destaque
-
-### 📚 Sebo Universitário
-
-Aplicação acadêmica desenvolvida para praticar **Vue 3, Vuetify, Vue Router e CRUD local**.
-
-Funcionalidades planejadas:
-
-- Cadastro de livros
-- Listagem de livros
-- Edição de livros
-- Exclusão com confirmação
-- Estatísticas na página inicial
-- Navegação com Vue Router
-- Componentes reutilizáveis
-- Tema visual personalizado
-
-> Aprendendo desenvolvimento fullstack na prática, um commit por vez.
+- Agentes de IA
+- Amazon Bedrock
+- Integração com APIs
+- Automação de tarefas
+- Análise de logs
+- Documentação automática
+- Suporte técnico assistido por IA
+- Automação operacional
+- Workflows com n8n
+- Integração IA + Cloud + DevOps
 
 ---
 
-## 🧩 Meu mapa técnico
+# 🔭 Atualmente estudando
 
-```txt
-Linux        → servidores, permissões, serviços e troubleshooting
-Redes        → TCP/IP, OSPF, BGP, MPLS e MikroTik
-DevOps       → Docker, CI/CD, automação e observabilidade
-Containers   → Portainer, Docker Swarm, Traefik e publicação de serviços
-AWS/Bedrock  → infraestrutura cloud, IA generativa e integrações com modelos fundacionais
-Agentes IA   → automações inteligentes, ferramentas, APIs e fluxos orientados por contexto
-Python       → scripts, automação, ETL e integração com APIs
-Fullstack    → Vue.js, APIs, bancos de dados e deploy
-Documentação → clareza, padronização e transferência de conhecimento
+```text
+AWS Cloud Architecture
+├── VPC & Networking
+├── EC2
+├── IAM
+├── Route 53
+├── Load Balancing
+└── Observability
+
+DevOps
+├── Docker
+├── Docker Compose
+├── GitHub Actions
+├── CI/CD
+├── Terraform
+├── Kubernetes
+└── Infrastructure as Code
+
+Infrastructure
+├── Linux
+├── Active Directory
+├── Networking
+├── Security
+└── Monitoring
+
+Automation
+├── Python
+├── Bash
+├── APIs
+├── n8n
+└── AI Agents
 ```
 
 ---
 
-## 🎓 Certificações
+# 🎓 Certificações & Treinamentos
 
-- Microsoft Azure AI-900
-- MTCNA: MikroTik Certified Network Associate
-- Docker para Desenvolvedores com Docker Swarm e Kubernetes
-- Notion do Básico ao Avançado
-- Microsoft Excel Básico
+### 🐧 Linux
+
+- **Linux Foundation — Introduction to Linux (LFS101)**
+
+### 🌐 Cisco & Networking
+
+- **Cisco Networking Academy — CCNA learning path**
+- **MTCNA — MikroTik Certified Network Associate**
+- Estudos em Network Security
+- Estudos em Switching, Routing and Wireless Essentials
+- Estudos em Enterprise Networking, Security and Automation
+
+### ☁️ AWS
+
+- **AWS Partner Accreditation — Technical**
+- AWS Cloud Quest — Cloud Practitioner
+- Getting Started with DevOps on AWS
+- Introdução às Redes da AWS
+- Estudos em Amazon VPC
+- Estudos em AWS Cloud Architecture
+
+### Microsoft
+
+- **Microsoft Azure AI Fundamentals — AI-900**
+
+### Containers & DevOps
+
+- Docker
+- Docker Swarm
+- Kubernetes
+- GitHub Actions
+- CI/CD
+- Terraform
 
 ---
 
-## 💼 Experiência resumida
+# 🌎 Open Source
+
+## 🤝 MouseTooltipTranslator
+
+Contribuí com o projeto open source **MouseTooltipTranslator**, colaborando com melhorias relacionadas à localização em **Português do Brasil (pt-BR)**.
+
+A contribuição passou pelo fluxo tradicional de colaboração open source:
+
+```text
+Projeto upstream
+      │
+      ▼
+     Fork
+      │
+      ▼
+   Branch
+      │
+      ▼
+ Alterações
+      │
+      ▼
+    Commit
+      │
+      ▼
+ Pull Request
+      │
+      ▼
+ Code Review
+      │
+      ▼
+    Merge ✅
+```
+
+Essa experiência envolveu:
+
+- Git
+- GitHub
+- Forks
+- Branches
+- Commits
+- Pull Requests
+- Code Review
+- Colaboração open source
+- Localização de software
+
+---
+
+# 📌 Projetos & Laboratórios
+
+## ☁️ AWS + Docker + Traefik + CI/CD
+
+Ambiente de estudos para explorar infraestrutura cloud moderna utilizando:
+
+- AWS
+- Amazon EC2
+- Amazon VPC
+- Docker
+- Docker Compose
+- Traefik
+- GitHub Actions
+- PostgreSQL
+- Portainer
+- HTTPS
+- DNS
+- CI/CD
+
+---
+
+## 🐳 Docker Networking
+
+Laboratórios envolvendo:
+
+- Bridge networks
+- Redes customizadas
+- DNS interno
+- Comunicação entre containers
+- Port mapping
+- Reverse proxy
+- Traefik
+- Docker Compose
+
+---
+
+## 🌐 Networking Labs
+
+Estudos e laboratórios envolvendo:
+
+- Subnetting
+- VLAN
+- Routing
+- NAT
+- DNS
+- DHCP
+- OSPF
+- BGP
+- MikroTik
+- Cisco
+- AWS VPC
+- VPC Peering
+- Security Groups
+
+---
+
+## 📚 Sebo Universitário
+
+Aplicação acadêmica utilizada para praticar desenvolvimento de aplicações web.
+
+Tecnologias:
+
+- Vue.js 3
+- Vuetify
+- Vue Router
+- JavaScript
+- CRUD
+- Componentização
+
+O desenvolvimento continua sendo uma competência complementar, especialmente útil para criação de **ferramentas internas, APIs, automações e aplicações de suporte à infraestrutura**.
+
+---
+
+# 🧩 Meu mapa técnico
+
+```text
+Linux
+ └── Administração, serviços, permissões e troubleshooting
+
+Redes
+ └── TCP/IP, VLAN, DNS, DHCP, Routing, VPN e MikroTik
+
+Cloud
+ └── AWS, VPC, EC2, IAM, Route 53 e Cloud Networking
+
+DevOps
+ └── Docker, GitHub Actions, CI/CD, Traefik e Portainer
+
+IaC
+ └── Terraform e infraestrutura reproduzível
+
+Automação
+ └── Python, Bash, PowerShell, APIs e n8n
+
+Observabilidade
+ └── Logs, métricas, troubleshooting e monitoramento
+
+Desenvolvimento
+ └── APIs, Vue.js, Fastify, PostgreSQL e ferramentas internas
+
+IA
+ └── Bedrock, agentes, APIs e automações inteligentes
+```
+
+---
+
+# 💼 Experiência Profissional
 
 | Período | Cargo | Organização |
 | --- | --- | --- |
@@ -195,35 +593,67 @@ Documentação → clareza, padronização e transferência de conhecimento
 | 2024 — 2025 | Suporte N-II / Suporte N-I | GB Online |
 | 2023 — 2024 | Analista de Suporte | Se7e Sistemas |
 
----
+### Experiência prática
 
-## 📊 GitHub Stats
+Minha trajetória profissional inclui atividades relacionadas a:
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=coldrenatinho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=coldrenatinho&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldrenatinho&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://github.com/coldrenatinho">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=coldrenatinho&theme=github-compact&hide_border=true" alt="Activity Graph" />
-  </a>
-</div>
+- Infraestrutura de TI
+- Administração Linux e Windows
+- Redes
+- Active Directory
+- Group Policy
+- VPN
+- Suporte N2
+- Sistemas corporativos
+- Troubleshooting
+- Atendimento de incidentes
+- Segurança
+- Documentação técnica
+- Padronização de procedimentos
 
 ---
 
-## 🐍 Minhas contribuições
+# 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coldrenatinho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</td>
+
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=coldrenatinho&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldrenatinho&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<a href="https://github.com/coldrenatinho">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coldrenatinho&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribuições
 
 <div align="center">
 
@@ -233,18 +663,20 @@ Documentação → clareza, padronização e transferência de conhecimento
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
 <div align="center">
 
 <a href="mailto:araujorenato045@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-araujorenato045%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+<img src="https://img.shields.io/badge/E--mail-araujorenato045%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
+
 <a href="https://www.linkedin.com/in/renatoaraujo045">
-  <img src="https://img.shields.io/badge/LinkedIn-Renato%20Araujo-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Renato%20Araujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="https://github.com/coldrenatinho">
-  <img src="https://img.shields.io/badge/GitHub-coldrenatinho-181717?style=for-the-badge&logo=github" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-coldrenatinho-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -253,6 +685,8 @@ Documentação → clareza, padronização e transferência de conhecimento
 
 <div align="center">
 
-### “Infraestrutura, automação e desenvolvimento para resolver problemas reais.”
+### ☁️ Infrastructure → Cloud → DevOps → Automation
+
+### “Infraestrutura confiável. Deploys reproduzíveis. Operações automatizadas.”
 
 </div>
